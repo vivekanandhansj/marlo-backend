@@ -14,7 +14,7 @@ edituser<br/>
 api : https://marlo-server.onrender.com/api/user/id<b/>
 ![edituser](https://user-images.githubusercontent.com/97933338/209044140-87f7e50f-fbfc-47a9-a6a9-59a12bb445e5.png)<br/>
 <br/>
-deleuser</br>
+deleteuser</br>
 api : https://marlo-server.onrender.com/api/user/id<b/>
 ![delete](https://user-images.githubusercontent.com/97933338/209044136-88b883ce-eda0-4143-acd3-fdeca8b01da1.png)<br/>
 <br/>
